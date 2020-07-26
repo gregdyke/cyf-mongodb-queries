@@ -23,7 +23,7 @@
 
 6) Which 4 movies from one of the Nordic Countries (Sweden, Norway, Finland, Iceland or Denmark) came out in 2011
 
-# New functionality
+## New functionality
 
 7) Which 2 movies have included both Matt Damon and Julia Styles in the cast
 
