@@ -25,7 +25,7 @@
 
 ## New functionality
 
-7) Which 2 movies have included both Matt Damon and Julia Styles in the cast
+7) Which 2 movies have included both Matt Damon and Julia Stiles in the cast
 
 8) Which movie has won 210 awards?
 
